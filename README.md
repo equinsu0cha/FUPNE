@@ -1,7 +1,7 @@
 # FUPNE
 Facebook User Phone Number Enumerator
 
-Facebook decieded sometime ago to set the default security permssions for users to allow anyone to access their phone number. Combined with the insecure and lack of thought towards privacy, with a litle nmcli magic, one can enumerate literally millions of phone number to the person that owns them.
+Facebook decided sometime ago to set the default security permssions for users to allow anyone to access their phone number. Combined with the insecure and lack of thought towards privacy, with a litle nmcli magic, one can enumerate literally millions of phone number to the person that owns them.
 
 You will need to have vpns setup through network-manager to have the ip refresh work right. It is probably important that you save the VPN user/pass in network manager or you will get prompted each switch.
 
@@ -9,8 +9,8 @@ Second number of last 4 need to be -gt that the first obviously. I was too busy 
 
 Master log will keep all findings in a json format.
 
-Its important that the phone numb er range choosen is usually that of a mobile exchange. Easy enough to look through for cell numbers you know others have, then run that area code and exhcnage through.
+Its important that the phone number range choosen is usually that of a mobile exchange. Easy enough to look through for cell numbers you know others have, then run that area code and exchange through.
 
-You can do internaltional numbers as well, just adjust the number entered to match the correct calling ex=change of that area.
+You can do international numbers as well, just adjust the number entered to match the correct calling exchange of that area.
 
 Good luck!
